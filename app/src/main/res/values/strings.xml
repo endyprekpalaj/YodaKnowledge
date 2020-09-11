@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Yoda master knowledge</string>
+    <string name="beginingScreen">Welcome! Button click for new quote!</string>
+    <string name="YodaQuotesTeam">- Yoda Team</string>
+    <string name="next_quote">Next Quote</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="number_of_attempts_remaining">Number of attempts remaining:</string>
+    <string name="attempts_remain">\"Number of attempts remaining: \"</string>
+    <string name="count_remain">Number of attempts remaining: 5</string>
+</resources>
