@@ -3,7 +3,10 @@ Get your yoda master quotes!
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-Android aplication with a Login activity and a random quote generator.
+Android application consisting of:
+-Login activity
+-Button for generating next quote
+-Quotes with pictures and colorful text
 
 ```sh
 username: Endy
